@@ -1,5 +1,7 @@
 # Project:- Deploy Flask App using ECS & ECR
 
+    https://muditmathur121.medium.com/project-deploy-flask-app-using-ecs-ecr-6b804df1b524 
+
 * Setting Up EC2 instance
 * Create a new EC2 instance and SSH into it (ubuntu/t2.micro/all-traffic/8gb)
 
